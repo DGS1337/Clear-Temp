@@ -1,3 +1,3 @@
-# Clear TEMP and Tols
+# Clear TEMP and tools
 
 ![Hello](/temp/preview.png)
